@@ -1,0 +1,20 @@
+
+@import "~bootstrap/scss/bootstrap";
+
+//Font-awesome
+@import "~font-awesome/scss/font-awesome";
+
+@import "fonts/flaticon.css";
+
+// import Swiper and modules styles
+@import '~swiper/css/swiper.css';
+@import '~swiper/components/navigation/navigation';
+@import '~swiper/components/pagination/pagination';
+
+@import "~animate.css/animate.css";
+@import "~wowjs/css/libs/animate.css";
+@import "variables";
+@import "style";
+@import "responsive";
+@import "~magnific-popup/dist/magnific-popup.css";
+@import "~slick-slider/slick/slick.css";
