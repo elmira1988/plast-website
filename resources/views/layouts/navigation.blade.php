@@ -21,9 +21,11 @@
                                         <a href="{{ url('/') }}" class="text-theme fs-14">Главная
                                         </a>
                                     </li>
+                                    <!--
                                     <li class="menu-item">
                                         <a href="{{ url('/') }}#about-us" class="text-theme fs-14">О нас</a>
                                     </li>
+                                    -->
                                     <li class="menu-item menu-item-has-children @this_url(array('/delivery','/storages')) active @endthis_url">
                                         <a href="{{ url('/') }}" class="text-theme fs-14">Продукция
                                         </a>
@@ -31,12 +33,14 @@
                                             <li class="menu-item">
                                                 <a href="https://пластпродажи.рф/products" class="text-theme">Каталог изделий</a>
                                             </li>
+                                            <!--
                                             <li class="menu-item">
                                                 <a href="https://пластпродажи.рф/" class="text-theme">Актуальный прайс</a>
                                             </li>
                                             <li class="menu-item">
                                                 <a href="https://пластпродажи.рф/" class="text-theme">Интернет-магазин</a>
                                             </li>
+                                            -->
                                             <li class="menu-item">
                                                 <a href="{{ url('/delivery') }}" class="text-theme">Доставка и оплата</a>
                                             </li>
@@ -45,10 +49,12 @@
                                             </li>
                                         </ul>
                                     </li>
+                                    <!--
                                     <li class="menu-item">
                                         <a href="{{ url('/') }}#news-section" class="text-theme fs-14">Новости
                                         </a>
                                     </li>
+                                    -->
                                     <li class="menu-item @this_url(array('/dealers')) active @endthis_url">
                                         <a href="{{ url('/dealers') }}" class="text-theme fs-14">Дилерам
                                         </a>

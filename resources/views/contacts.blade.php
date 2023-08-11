@@ -52,7 +52,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-12">
-                                    <button type="submit" class="btn-first btn-border">Отправить</button>
+                                    {{--<button type="submit" class="btn-first btn-border">Отправить</button>--}}
                                     <div class="server_response w-100">
                                     </div>
                                 </div>
@@ -210,7 +210,10 @@
         </div>
     </div>
     <div class="contact-map">
+        <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A21097017fa5e559c9359917fca6acd08de201fbb9f3f763c6f95db9a512aeda7&amp;width=1253&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+        <!--
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2362.556717458611!2d55.96899527704718!3d53.690525448914975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x43d813e895617ac7%3A0x253662d43f7f30b6!2z0YPQuy4g0J7Qu9C10LPQsCDQmtC-0YjQtdCy0L7Qs9C-LCAxMCwg0KHRgtC10YDQu9C40YLQsNC80LDQuiwg0KDQtdGB0L8uINCR0LDRiNC60L7RgNGC0L7RgdGC0LDQvSwgNDUzMTA1!5e0!3m2!1sru!2sru!4v1690287544270!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        -->
     </div>
 
 @endsection

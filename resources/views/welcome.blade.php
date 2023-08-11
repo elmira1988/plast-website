@@ -52,7 +52,6 @@
                                         <h1 class="text-custom-white">Новинки на рынке</h1>
                                         <p class="text-custom-white mb-xl-40">Проектно-конструкторский отдел и собственный
                                             инструментальный цех ускоряют выход большого количества новинок на рынок.</p>
-                                        <a href="#" class="btn-first btn-border">Подробнее</a>
                                     </span>
                                     </div>
                                 </div>
@@ -60,23 +59,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide slide-item swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0">
-                    <img src="{{ asset('images/banner/slide_1.png') }}" class="image-fit" alt="img">
-                    <div class="transform-center">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-7">
-                                    <div class="content-wrapper">
-                                        <h1 class="text-custom-white">Our Contractors <span class="text-custom-blue">Makes A</span> Diffrence</h1>
-                                        <p class="text-custom-white mb-xl-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
-                                        <a href="https://slidesigma.com/themes/html/cali-constructions/#" class="btn-first btn-submit text-custom-white mr-2">Learn More</a>
-                                        <a href="https://slidesigma.com/themes/html/cali-constructions/#" class="btn-first btn-border">Book Appointment</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div></div>
+            </div>
             <!-- Add Arrows -->
             <div class="slider-btn">
                 <div class="main-button-next swiper-button-next" tabindex="0" role="button" aria-label="Следующий слайд">
@@ -91,6 +74,7 @@
     <!-- End Banner -->
 
     <!-- История-->
+    <!--
     <section class="section-padding pb-0 bg-light-white our-history">
         <a style="margin-top: -120px;position: absolute;" name="about-us"></a>
         <div class="container">
@@ -298,6 +282,7 @@
             </div>
         </div>
     </section>
+    -->
     <!-- История конец-->
 
     <section class="section-padding our-services">
@@ -307,9 +292,9 @@
                     <h5 class="text-custom-blue wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s"> Наши будни </h5>
                     <h3 class="text-theme fw-700">Будни производства</h3>
                 </div>
-                <div class="section-description">
+                {{--<div class="section-description">
                     <p class="text-light-white">Коротко о том, как описать текущие фотографии. Коротко о том, как описать текущие фотографии.</p>
-                </div>
+                </div>--}}
             </div>
             <div class="row">
                 <div class="col-12">
@@ -409,6 +394,7 @@
     </section>
 
     <!--Наши партнеры -->
+    <!--
     <section class="section-padding bg-light-white">
         <div class="container">
             <div class="section-header">
@@ -470,6 +456,7 @@
             </div>
         </div>
     </section>
+    -->
     <!--Наши партнеры - конец-->
 
     <!--Наши преимущества-->
@@ -548,6 +535,7 @@
     <!--Наши преимущества-->
 
     <!--Наши клиенты и Отзывы-->
+    <!--
     <section class="client-tesimonial arrow-shape-1">
         <div class="container-fluid no-padding">
             <div class="row no-gutters">
@@ -745,9 +733,11 @@
             </div>
         </div>
     </section>
+    -->
     <!--Наши клиенты и Отзывы конец-->
 
     <!--Новости-->
+    <!--
     <section class="section-padding bg-light-white our_articles">
         <a style="margin-top: -120px;position: absolute;" name="news-section"></a>
         <div class="container">
@@ -765,7 +755,6 @@
                     <div class="swiper-container blog-slider swiper-container-initialized swiper-container-horizontal">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide swiper-slide-active"  data-swiper-slide-index="0">
-                                <!-- article -->
                                 <article class="post">
                                     <div class="post-wrapper">
                                         <div class="blog-img animate-img">
@@ -799,10 +788,8 @@
                                         </div>
                                     </div>
                                 </article>
-                                <!-- article -->
                             </div>
                             <div class="swiper-slide swiper-slide-active"  data-swiper-slide-index="1">
-                                <!-- article -->
                                 <article class="post">
                                     <div class="post-wrapper">
                                         <div class="blog-img animate-img">
@@ -828,10 +815,8 @@
                                         </div>
                                     </div>
                                 </article>
-                                <!-- article -->
                             </div>
                             <div class="swiper-slide swiper-slide-active"  data-swiper-slide-index="2">
-                                <!-- article -->
                                 <article class="post">
                                     <div class="post-wrapper">
                                         <div class="blog-img animate-img">
@@ -857,12 +842,10 @@
                                         </div>
                                     </div>
                                 </article>
-                                <!-- article -->
                             </div>
                         </div>
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                     </div>
-                    <!-- Add Arrows -->
                     <div class="slider-btn">
                         <div class="blog-button-next swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
                             <span class="flaticon-arrow-1"></span>
@@ -871,7 +854,6 @@
                             <span class="flaticon-left"></span>
                         </div>
                     </div>
-                    <!-- Add Pagination -->
                     <div class="blog-pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
                         <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span>
                         <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span>
@@ -881,12 +863,14 @@
             </div>
         </div>
     </section>
+    -->
     <!--Новости конец-->
 
     <!-- Напишите нам -->
     <section class="section-padding bg-call-to-action">
         <div class="overlay overlay-bg"></div>
         <div class="row">
+            <!--
             <div class="col-lg-6 wow fadeInLeftBig">
                 <div class="faq-box mb-md-40 ml-4 " >
                     <div class="faq-wrapper" id="accordion">
@@ -977,7 +961,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 wow fadeInRightBig">
+            -->
+            <div class="col-lg-12 wow fadeInRightBig">
                 <a style="margin-top: -120px;position: absolute;" name="write-to-us"></a>
                 <div class="container">
                     <div class="section-header">
@@ -1019,7 +1004,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="form-group ">
-                                <button type="submit" class="btn-first btn-submit full-width btn-height">Отправить</button>
+                               {{-- <button type="submit" class="btn-first btn-submit full-width btn-height">Отправить</button>--}}
                             </div>
                         </div>
                     </div>
