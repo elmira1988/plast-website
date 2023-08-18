@@ -37,3 +37,7 @@ Route::get('/storages', function () {
 Route::get('/delivery', function () {
     return view('delivery');
 });
+
+Route::get('/products', function () {
+    return view('products');
+});
