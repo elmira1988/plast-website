@@ -31,7 +31,7 @@
                                         </a>
                                         <ul class="custom sub-menu">
                                             <li class="menu-item">
-                                                <a href="{{ url('/products') }}" class="text-theme">Все изделия</a>
+                                                <a href="{{ url('/products') }}" class="text-theme">Вся продукция</a>
                                             </li>
                                             <!--
                                             <li class="menu-item">
