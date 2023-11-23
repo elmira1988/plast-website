@@ -15,7 +15,7 @@
                                         <h1 class="text-custom-white">ПластСтер
                                             <span class="text-custom-blue">технология надежности</span></h1>
                                         <p class="text-custom-white mb-xl-40">Три основных правила: стабильность, качество, наличие, позволяют занимать одно из первых мест, среди производителей и поставщиков фурнитуры. </p>
-                                        <a href="https://пластпродажи.рф/products" class="btn-first btn-border">Каталог изделий</a>
+                                        <a href="{{ url('/products') }}" class="btn-first btn-border">Каталог изделий</a>
                                         <a href="https://пластпродажи.рф/" class="btn-first btn-border">Актуальный прайс</a>
                                     </div>
                                 </div>
