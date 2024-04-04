@@ -198,7 +198,7 @@
 
                             <tr>
                                 <td class="text-light-white border-left-0">ОГРН</td>
-                                <td class="text-theme ml-0 border-right-0">1070268003739</td>
+                                <td class="text-theme ml-0 border-right-0">1070268003739 </td>
                             </tr>
 
                             </tbody>
