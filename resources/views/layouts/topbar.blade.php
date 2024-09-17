@@ -8,7 +8,7 @@
                             <a href="tel:" class="text-custom-white"><i class="fa fa-phone text-custom-blue"></i> 8 (927) 347-16-30, 800 505-34-45</a>
                         </li>
                         <li>
-                            <a href="mailto:info@domain.com" class="text-custom-white"><i class="fa fa-envelope text-custom-blue"></i> zakaz@plastster.ru</a>
+                            <a href="mailto:info@domain.com" class="text-custom-white"><i class="fa fa-envelope text-custom-blue"></i> zakaz@plastster.com</a>
                         </li>
                         <li>
                             <a href="#" class="text-custom-white">

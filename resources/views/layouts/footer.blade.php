@@ -40,7 +40,7 @@
                                 <h5 class="text-theme fs-20 d-inline">
                                     <i class="fa fa-envelope mr-2 text-custom-blue"></i>
                                 </h5>
-                                <a href="mailto:" class="text-light-white fs-1 d-inline fs-16">zakaz@plastster.ru</a><br>
+                                <a href="mailto:" class="text-light-white fs-1 d-inline fs-16">zakaz@plastster.com</a><br>
                             </li>
                             <li>
                                 <h5 class="text-theme fs-20 d-inline" ><i class="fa fa-phone mr-2 text-custom-blue "></i></h5>

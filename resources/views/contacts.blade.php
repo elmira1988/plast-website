@@ -75,7 +75,7 @@
                             <hr>
                             <li>
                                 <h5 class="text-theme fs-20"><i class="fa fa-envelope mr-2 text-custom-blue"></i> Email</h5>
-                                <a href="mailto:" class="text-light-white fs-16">zakaz@plastster.ru</a><br>
+                                <a href="mailto:" class="text-light-white fs-16">zakaz@plastster.com</a><br>
                                 <span class="text-theme fw-600">Отдел продаж</span>
                             </li>
                             <hr>
